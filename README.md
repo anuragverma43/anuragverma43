@@ -12,9 +12,9 @@
 
 ## Coding Profiles
 
-- Codeforces: ANURAG_VERMA45
-- CodeChef: one_more_wa
-- LeetCode: stack_anurag45
+- [Codeforces](https://codeforces.com/profile/ANURAG_VERMA45)
+- [LeetCode](https://leetcode.com/u/stack_anurag45/)
+- [CodeChef](https://www.codechef.com/users/one_more_wa)
 
 ---
 
